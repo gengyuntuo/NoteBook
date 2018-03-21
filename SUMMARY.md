@@ -27,4 +27,8 @@
   * [Book000-22-Getting\_Started](Kafka/Book000-22-Getting_Started.md)
 * [Zookeeper](Zookeeper/README.md)
   * [Book000-00-Directory](Zookeeper/Book000-00-Directory.md)
+* [Appendix](Appendix/README.md)
+  * [词汇表01](Appendix/term/terms-001.md)
+  * [词汇表02](Appendix/term/terms-002.md)
+  * [词汇表03](Appendix/term/words-01.md)
 
