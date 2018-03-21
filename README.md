@@ -1,14 +1,6 @@
 > 个人笔记，记录个人在学习和工作中的知识和心得。
 
-## 目录：
 
-1. [Spring](./Spring/README.md)
-2. [Python](./Python/README.md)
-3. [Linux](./Linux/README.md)
-4. [Hadoop](./Hadoop/README.md)
-5. [Scala](./Scala/README.md)
-6. [Spark](./Spark/README.md)
-7. [Spring Boot](./SpringBoot/README.md)
 
 ## 约定
 
